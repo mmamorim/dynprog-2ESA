@@ -15,6 +15,6 @@ Aulas Resumo
 Aulas Novas
 * Aula 08 - (10/10) Conhecendo a Turma
 * Aula 09 - (17/10) RECESSO - DIA DOS PROFS
-* [Aula 07](./Aula10_24OUT/) (24/10) Problema das moedas
+* [Aula 10](./Aula10_24OUT/) (24/10) Problema das moedas
 
 CP5 - [ENUNCIADO](./CP05-Enunciado.md)
