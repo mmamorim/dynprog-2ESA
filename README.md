@@ -18,3 +18,4 @@ Aulas Novas
 * [Aula 10](./Aula10_24OUT/) (24/10) Problema das moedas
 
 CP5 - [ENUNCIADO](./CP05-Enunciado.md)
+CP6 - [ENUNCIADO](./CP06-Enunciado.md)
